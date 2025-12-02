@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "firmware_url": "http://dotev.infinityfree.me/dota/firmware0.0.9.bin",
+  "sha256": "D9BE56C63F327CF3B798DBC9698BD0C0FA7BDC5344784B843E2E7921D648071A",
+  "notes": "First Try of ota updates",
+  "published_at": "2025-12-02T00:00:00Z"
+}

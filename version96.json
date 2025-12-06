@@ -2,7 +2,7 @@
 {
   "version": "0.1.1",
   "firmware_url": "https://raw.githubusercontent.com/xpertcrush/dotev/main/minifirmware.bin",
-  "sha256": "9cf463e22a5987d83dbfd560c0f9b1f4d499eb2f9bd9b775844c9c753054c344",
+  "sha256": "35df3c5d03279058b9598f26f73711d10eaac2b57af53d2e7d4cb3819cb21312",
   "notes": "First Try of ota updates",
   "published_at": "2025-12-02T00:00:00Z"
 }

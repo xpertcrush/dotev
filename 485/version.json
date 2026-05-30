@@ -1,5 +1,5 @@
 {
-  "version": "12",
+  "version": "13",
   "firmware_url": "https://raw.githubusercontent.com/xpertcrush/dotev/main/485/firmware.bin",
   "sha256": "e8ad9cd4224ea822c7f73a1178708b806160fe637458e0dd4eed69ae135b529d",
   "notes": "First Try of ota updates",

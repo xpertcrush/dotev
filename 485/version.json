@@ -1,7 +1,7 @@
 {
   "version": "13",
   "firmware_url": "https://raw.githubusercontent.com/xpertcrush/dotev/main/485/firmware.bin",
-  "sha256": "e35ca6d188b7cc5ac04cb92981f6eb63d73179c4cf7334759093bf4dfbf29f7d",
+  "sha256": "ff3f28de131803a3e91379d25dcfd5aca776f31681b06daec120c9a9fd1b9878",
   "notes": "First Try of ota updates",
   "published_at": "2025-12-02T00:00:00Z"
 }
